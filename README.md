@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ZobayerAkib
-- 👀 I’m interested in Competitive Programming
+- 👋 Hi, I’m @Zobayer Ibna Kabir (Akib)
+- 👀 I’m interested in Competitive Programming,Android App developing,Machine Learning and so on.
 - 🌱 I’m currently learning Android Studio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "ibnakabir081@gmail.com"
