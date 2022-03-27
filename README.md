@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "ibnakabir081@gmail.com"
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&hide=html&&show_icons=true&title_color=ffffff&icon_color=FF6347&text_color=B0C4DE&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&langs_count=8&&show_icons=true&title_color=ffffff&icon_color=FF6347&text_color=B0C4DE&bg_color=151515">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZobayerAkib&&show_icons=true&title_color=ffffff&icon_color=FF6347&text_color=B0C4DE&bg_color=151515">
 
