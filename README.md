@@ -5,13 +5,13 @@
 
 <h3><b>Skills :</b></h3>
   <p>
-   <img style="max-width: 100%;" src="https://img.shields.io/badge/-C&C++-00599C?logo=C++&logoColor=fff">
-   <img style="max-width: 100%;" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=fff">
-   <img style="max-width: 100%;" src=" https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=FFF">
-   <img style="max-width: 100%;" src="https://img.shields.io/badge/-MSSQL-4479A1?logo=MSSQL&logoColor=fff">
-   <img style="max-width: 100%;" src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
-   <img style="max-width: 100%;" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=fff">
-   <img style="max-width: 100%;" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff">
+   <img  src="https://img.shields.io/badge/-C&C++-00599C?logo=C++&logoColor=fff">
+   <img  src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=fff">
+   <img  src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=FFF">
+   <img  src="https://img.shields.io/badge/-MSSQL-4479A1?logo=MSSQL&logoColor=fff">
+   <img  src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
+   <img  src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=fff">
+   <img  src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff">
   </p>
 
 
