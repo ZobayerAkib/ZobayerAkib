@@ -17,7 +17,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&langs_count=8&&show_icons=true&title_color=ffffff&icon_color=FF6347&text_color=B0C4DE&bg_color=151515">
 
-<img src=https://github-readme-stats.vercel.app/api?username=ZobayerAkib&&show_icons=true&title_color=7EC9F5&icon_color=FF6347&text_color=B0C4DE&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=ZobayerAkib&&show_icons=true&title_color=7EC9F5&icon_color=FF6347&text_color=B0C4DE&bg_color=151515">
 
 <!---
 ZobayerAkib/ZobayerAkib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
