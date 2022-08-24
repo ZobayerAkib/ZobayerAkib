@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive Programming,Android App developing,Machine Learning and so on.
 - 🌱 I’m currently learning   <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=PYTHON&logoColor=fff">
 - 📫 If you want to contact me  ---> <p><a  href="mailto:ibnakabir081@gmail.com"><img src="https://camo.githubusercontent.com/e31e88a64ddd9f4d196153f4c5b24177d0f83a94595b5a9eb2886a43e2685fb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d53656e642532304d61696c2d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d656635333530266c6f676f3d676d61696c266c6f676f436f6c6f723d666666666666" alt="Gmail" data-canonical-src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&amp;labelColor=ef5350&amp;logo=gmail&amp;logoColor=ffffff" style="max-width: 100%;"></a></p>
-
+<h3>![](https://komarev.com/ghpvc/?username=ZobayerAkib)</h3>
 <h3><b>Skills :</b></h3>
   <p>
    <img  src="https://img.shields.io/badge/-C&C++-00599C?logo=C++&logoColor=fff">
