@@ -7,7 +7,7 @@
  <img src="https://komarev.com/ghpvc/?username=ZobayerAkib" data-canonical-src="https://komarev.com/ghpvc/?username=ZobayerAkib&style=for-the-badge" style="max-width:100%">
 </a>
 </p>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+ 
 <h3><b>Skills :</b></h3>
   <p>
    <img  src="https://img.shields.io/badge/-C&C++-00599C?logo=C++&logoColor=fff">
@@ -27,6 +27,8 @@
 <p dir="auto">
 <img src="https://github-readme-stats.vercel.app/api?username=ZobayerAkib&&show_icons=true&title_color=7EC9F5&icon_color=FF6347&text_color=B0C4DE&bg_color=151515">
  </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZobayerAkib&theme=dark)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZobayerAkib&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
