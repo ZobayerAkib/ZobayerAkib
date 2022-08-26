@@ -24,7 +24,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZobayerAkib&&show_icons=true&title_color=7EC9F5&icon_color=FF6347&text_color=B0C4DE&bg_color=151515">
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZobayerAkib&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 ZobayerAkib/ZobayerAkib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
