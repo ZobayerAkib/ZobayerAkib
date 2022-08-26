@@ -20,9 +20,13 @@
   </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&langs_count=8&&show_icons=true&title_color=ffffff&icon_color=FF6347&text_color=B0C4DE&bg_color=151515">
+<p dir="auto">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&langs_count=8&&show_icons=true&title_color=ffffff&icon_color=FF6347&text_color=B0C4DE&bg_color=151515">
+ </p>
 
+<p dir="auto">
 <img src="https://github-readme-stats.vercel.app/api?username=ZobayerAkib&&show_icons=true&title_color=7EC9F5&icon_color=FF6347&text_color=B0C4DE&bg_color=151515">
+ </p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZobayerAkib&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
