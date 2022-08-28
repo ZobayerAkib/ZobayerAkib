@@ -8,7 +8,7 @@
 </a>
 </p>
 <p align="center" dir="auto">
-   "Predicting the future is not magic, it's AI!"
+ "Predicting the future is not magic, it's <b style:color:"red">Artificial intelligence (AI)</b>!"
 </p>
  
 <h3><b>Skills :</b></h3>
