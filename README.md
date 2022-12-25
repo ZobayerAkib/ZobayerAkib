@@ -12,7 +12,18 @@
 </a>
 </p>
 <p align="center" dir="auto">
-  `Predicting the future is not magic, it's <b>Artificial intelligence (AI)</b>!`
+   <details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts  `Predicting the future is not magic, it's <b>Artificial intelligence (AI)</b>!`
+```
+
+</p>
+</details>
+ 
 </p>
  
 <h3><b>Skills :</b></h3>
