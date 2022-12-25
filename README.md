@@ -23,7 +23,7 @@
 
 </p>
 </details>
- Visit https://github.com
+
 </div>
  
 <h3><b>Skills :</b></h3>
