@@ -18,7 +18,7 @@
 
 
 ```ruby
-     `Predicting the future is not magic, it's <b>Artificial intelligence (AI)</b>!`
+     `Predicting the future is not magic, it's Artificial intelligence (AI)!`
 ```
 
 </p>
