@@ -11,20 +11,20 @@
  <img src="https://komarev.com/ghpvc/?username=ZobayerAkib" data-canonical-src="https://komarev.com/ghpvc/?username=ZobayerAkib&style=for-the-badge" style="max-width:100%">
 </a>
 </p>
-<p align="center" dir="auto">
-   <details><summary>CLICK ME</summary>
+<div align="center" dir="auto">
+<details><summary>CLICK ME</summary>
 <p>
 
-#### We can hide anything, even code!
+
 
 ```ruby
-   puts  `Predicting the future is not magic, it's <b>Artificial intelligence (AI)</b>!`
+     `Predicting the future is not magic, it's <b>Artificial intelligence (AI)</b>!`
 ```
 
 </p>
 </details>
  
-</p>
+</div>
  
 <h3><b>Skills :</b></h3>
   <p>
