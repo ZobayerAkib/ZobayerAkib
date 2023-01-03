@@ -14,9 +14,13 @@
 <div align="center" dir="auto">
 <details><summary>CLICK ME</summary>
 <p>
+   
+   
 ```ruby
      `Predicting the future is not magic, it's Artificial intelligence (AI)!`
 ```
+   
+   
 </p>
 </details>
 </div>
