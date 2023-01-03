@@ -14,6 +14,12 @@
 <div align="center" dir="auto">
 <details><summary>CLICK ME</summary>
 <p>
+```ruby
+     `Predicting the future is not magic, it's Artificial intelligence (AI)!`
+```
+</p>
+</details>
+</div>
 <div>
    <h1>Connect me</h2>
    <p dir="auto">
@@ -28,17 +34,6 @@
 
 </p>
    </div>
-
-
-
-```ruby
-     `Predicting the future is not magic, it's Artificial intelligence (AI)!`
-```
-
-</p>
-</details>
-
-</div>
  
 <h3><b>Skills :</b></h3>
   <p>
