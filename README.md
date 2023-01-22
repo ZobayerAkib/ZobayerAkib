@@ -17,7 +17,7 @@
    
    
 ```ruby
-     `Predicting the future is not magic, it's Artificial intelligence (AI)!`
+     `Just one small positive thought in the morning can change your whole day!`
 ```
    
    
