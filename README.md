@@ -25,7 +25,7 @@
 </details>
 </div>
 <div>
-   <img src="https://camo.githubusercontent.com/00d0c97e02a0b72f198e715b2e2188dd85e3f494b9000eb83fefaaf528e16956/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4879756e43616665267468656d653d616c676f6c6961266e6f2d6672616d653d74727565266e6f2d62673d7472756526726f773d3126636f6c756d6e3d37" width="100%" alt="Trophy" align="middle" data-canonical-src="https://github-profile-trophy.vercel.app/?username=ZobayerAkib&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" style="max-width: 100%;">
+   <img src="https://github-profile-trophy.vercel.app/?username=ZobayerAkib&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" width="100%" alt="Trophy" align="middle" data-canonical-src="https://github-profile-trophy.vercel.app/?username=ZobayerAkib&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" style="max-width: 100%;">
    </div>
 <div>
    <h2>Connect me :</h2>
