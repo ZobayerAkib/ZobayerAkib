@@ -1,4 +1,4 @@
- <p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&pause=1000&color=D7D7D0&background=000000&multiline=true&width=435&lines=Hey!++++I+am+Zobayer+Ibna+Kabir.+%3C3+" alt="Typing SVG" /></a></p>
+ <p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&pause=1000&color=D7D7D0&background=000000&center=true&vCenter=true&multiline=true&width=435&lines=Hey!++++I+am+Zobayer+Ibna+Kabir.+%3C3+" alt="Typing SVG" /></a></p>
  
 - 👀 I’m especially interested in ***Machine Learning , Competitive Programming.***
 - 🌱 I’m currently learning   <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=PYTHON&logoColor=fff">
