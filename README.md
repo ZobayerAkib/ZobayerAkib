@@ -25,8 +25,8 @@
 </p>
 </details>
 </div>
-<div>
-   
+<div dir='auto'>
+   <img src="https://github-profile-trophy.vercel.app/?username=ZobayerAkib&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7">
    </div>
 <div>
    <h2>Connect me :</h2>
