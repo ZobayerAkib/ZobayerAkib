@@ -26,7 +26,7 @@
 </details>
 </div>
 <div>
-   <img src="https://github-profile-trophy.vercel.app/?username=ZobayerAkib&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" width="100%" alt="Trophy" align="middle" data-canonical-src="https://github-profile-trophy.vercel.app/?username=ZobayerAkib&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" style="max-width: 100%;">
+   
    </div>
 <div>
    <h2>Connect me :</h2>
