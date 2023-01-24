@@ -57,9 +57,7 @@
   </p>
 
 
-<p dir="auto">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&langs_count=5&&show_icons=true&title_color=ffffff&icon_color=FF6347&text_color=B0C4DE&bg_color=151515">
- </p>
+
 
 
 
