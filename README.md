@@ -59,9 +59,7 @@
 
 ![](https://raw.githubusercontent.com/ZobayerAkib/cf-stats/main/output/light_card.svg)
 
-<p dir="auto">
- <img src="https://raw.githubusercontent.com/ZobayerAkib/cf-stats/main/output/light_card.svg#gh-dark-mode-only">
- </p>
+
 
 
 
