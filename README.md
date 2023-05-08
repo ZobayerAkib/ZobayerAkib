@@ -58,8 +58,10 @@
 
 
 ![](https://raw.githubusercontent.com/ZobayerAkib/cf-stats/main/output/light_card.svg)
+ <p>
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib>
+              </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib)
 
 
 
