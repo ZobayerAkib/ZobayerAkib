@@ -59,7 +59,7 @@
 
 ![](https://raw.githubusercontent.com/ZobayerAkib/cf-stats/main/output/light_card.svg)
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib)
 
 
 
