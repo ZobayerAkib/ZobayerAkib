@@ -62,7 +62,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZobayerAkib&theme=dark)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZobayerAkib&theme=dark)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ZobayerAkib&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
