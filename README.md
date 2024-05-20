@@ -19,8 +19,8 @@
 
 </div>
 
-<div>
-<p align="center" dir="auto">
+<div align="center" dir="auto">
+<p >
 <a target="_blank">
  <img src="https://komarev.com/ghpvc/?username=ZobayerAkib" data-canonical-src="https://komarev.com/ghpvc/?username=ZobayerAkib&style=for-the-badge" style="max-width:100%">
 </a>
