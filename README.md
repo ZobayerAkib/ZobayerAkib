@@ -19,13 +19,7 @@
 
 </div>
 
-<div align="center" dir="auto">
-<p >
-<a target="_blank">
- <img src="https://komarev.com/ghpvc/?username=ZobayerAkib" data-canonical-src="https://komarev.com/ghpvc/?username=ZobayerAkib&style=for-the-badge" style="max-width:100%">
-</a>
-</p>
-</div>
+
 
 <div align="center" dir="auto">
 <details><summary>CLICK ME</summary>
@@ -44,6 +38,15 @@
    <img src="https://github-profile-trophy.vercel.app/?username=ZobayerAkib&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7">
    </div>
 <div>
+
+<div align="center" dir="auto">
+<p >
+<a target="_blank">
+ <img src="https://komarev.com/ghpvc/?username=ZobayerAkib" data-canonical-src="https://komarev.com/ghpvc/?username=ZobayerAkib&style=for-the-badge" style="max-width:100%">
+</a>
+</p>
+</div>
+
  
  <div dir='auto'>
 <h3><b>Skills :</b></h3>
