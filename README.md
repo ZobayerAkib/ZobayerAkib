@@ -48,7 +48,7 @@
 </div>
 
  
- <div dir='auto'>
+<div dir='auto'>
 <h3><b>Skills :</b></h3>
   <p>
    <img  src="https://img.shields.io/badge/-C&C++-00599C?logo=C++&logoColor=fff">
@@ -61,7 +61,7 @@
    <img  src="https://img.shields.io/badge/-MATLAB-777BB4?l&logoColor=fff">
 
   </p>
-
+</div>
 
 ![](https://raw.githubusercontent.com/ZobayerAkib/cf-stats/main/output/light_card.svg)
 
@@ -69,14 +69,6 @@
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
-
-
-
-
-
-
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZobayerAkib&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
