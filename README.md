@@ -30,7 +30,7 @@
    </div>
 <div>
  
- 
+ <div dir='auto'>
 <h3><b>Skills :</b></h3>
   <p>
    <img  src="https://img.shields.io/badge/-C&C++-00599C?logo=C++&logoColor=fff">
@@ -43,16 +43,16 @@
    <img  src="https://img.shields.io/badge/-MATLAB-777BB4?l&logoColor=fff">
 
   </p>
-
+<div>
 
 ![](https://raw.githubusercontent.com/ZobayerAkib/cf-stats/main/output/light_card.svg)
 <div align="center" dir="auto">
 <p dir="auto">
    <img src="https://camo.githubusercontent.com/6b2ad639ae582a6ed9185f093ce4e0330e74be5117ae74ae96f7d2e4eb1bd863/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d46617973616c2d4d44267468656d653d61757261" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZobayerAkib&amp;theme=aura" style="max-width: 100%;">
 </p>
-   <p>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib)](https://github.com/anuraghazra/github-readme-stats)
-   </p>
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib)](https://github.com/anuraghazra/github-readme-stats)
+  
  
 
 </div>
