@@ -49,7 +49,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZobayerAkib&show_icons=true&theme=radical)
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 
 
