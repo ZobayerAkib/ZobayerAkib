@@ -64,11 +64,11 @@
 </div>
 
 ![](https://raw.githubusercontent.com/ZobayerAkib/cf-stats/main/output/light_card.svg)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ZobayerAkib&&theme=blueberry&&hide_border=true)](https://git.io/streak-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZobayerAkib&show_icons=true&theme=radical)
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=ZobayerAkib&&theme=blueberry&&hide_border=true)](https://git.io/streak-stats) 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZobayerAkib&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
