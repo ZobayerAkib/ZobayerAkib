@@ -3,19 +3,20 @@
 <p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=750&color=F7481F&center=true&vCenter=true&width=435&lines=Hey+!+I+am+Md.+Zobayer+Ibna+Kabir;Welcome+to+my+profile" alt="Typing SVG" /></a></p>
 <div style="display: flex; align-items: center;">
  <div style="display: flex; align-items: center;">
+  <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <ul dir="auto">
-      <li>🔭 I’m currently working on <strong>My Portfolio</strong></li>
-      <li>🌱 I’m currently learning <strong>SQA Techniques</strong></li>
-      <li>💬 Ask me about <strong>Software and Technology related information</strong></li>
-      <li>📫 How to reach me: <strong><a href="mailto:faysalmahmud735@gmail.com">faysalmahmud735@gmail.com</a></strong></li>
-      <li>⚡ Fun fact is <strong>I am Funny</strong></li>
+      <li>👀 I’m especially interested in <strong>Machine Learning, Deep Learning, Competitive Programming, NLP, Medical Imaging.</strong></li>
+      <li>🌱 I’m currently learning <strong>BanglaBert, Bert, Generative AI.</strong></li>
+      <li>📫 If you want to contact me, you can reach out via: <strong><a href="mailto:faysalmahmud735@gmail.com">faysalmahmud735@gmail.com</a></strong></li>
     </ul>
   </div>
   <div style="flex: 1; text-align: center;">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-      <img align="right" alt="Working on My Portfolio" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="max-width: 100%; display: inline-block;">
-    </a>
+    <animated-image data-catalyst="" style="width: 180px;">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" data-target="animated-image.originalLink">
+        <img alt="Working on My Portfolio" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+      </a>
+    </animated-image>
   </div>
 </div>
 
