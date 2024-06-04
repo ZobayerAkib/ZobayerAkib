@@ -97,10 +97,10 @@
  
 [![Ashutosh's github activity graph]()
 
-<div>
- <img> src="https://github-readme-activity-graph.vercel.app/graph?username=ZobayerAkib&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph" </img>
+
+ <div>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZobayerAkib&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph">
 </div>
- 
 
 <!---
 ZobayerAkib/ZobayerAkib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
