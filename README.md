@@ -1,11 +1,12 @@
 
 <div align="center"><img  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="100">&nbsp;</div>
 <p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=750&color=F7481F&center=true&vCenter=true&width=435&lines=Hey+!+I+am+Md.+Zobayer+Ibna+Kabir;Welcome+to+my+profile" alt="Typing SVG" /></a></p>
-<
+
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <ul dir="auto">
-      <li>👀 I’m especially interested in <strong>Machine Learning, Deep Learning, Competitive Programming, NLP, Medical Imaging.</strong></li>
+      <li>👀 I’m especially interested in <strong>Machine Learning,<br>
+        Deep Learning, Competitive Programming, NLP, Medical Imaging.</strong></li>
       <li>🌱 I’m currently learning <strong>BanglaBert, Bert, Generative AI.</strong></li>
       <li>📫 If you want to contact me--->
     </ul>
