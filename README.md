@@ -93,6 +93,9 @@
 </div>
 <br><br> 
 
+# More Skills :
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,bootstrap,latex,mysql,postman,sklearn,tensorflow)](https://skillicons.dev)
+
 ![](https://raw.githubusercontent.com/ZobayerAkib/cf-stats/main/output/light_card.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZobayerAkib&show_icons=true&theme=radical)
