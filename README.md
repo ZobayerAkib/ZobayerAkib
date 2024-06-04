@@ -37,7 +37,7 @@
 
 <div align="center" dir="auto">
 <details><summary>CLICK ME</summary>
-<p>
+<p align='center'>
    
    
 ```ruby
