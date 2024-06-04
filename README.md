@@ -91,7 +91,7 @@
 ![](https://raw.githubusercontent.com/ZobayerAkib/cf-stats/main/output/light_card.svg)
 
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&layout=donut">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&layout=donut">
 
 
 
