@@ -94,7 +94,7 @@
 <br><br> 
 
 # More Skills :
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,bootstrap,latex,mysql,postman,sklearn,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,php,latex,mysql,postman,sklearn,tensorflow,clickup)](https://skillicons.dev)
 
 ![](https://raw.githubusercontent.com/ZobayerAkib/cf-stats/main/output/light_card.svg)
 
