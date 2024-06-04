@@ -7,13 +7,13 @@
     <ul dir="auto">
       <li>👀 I’m especially interested in <strong>Machine Learning, Deep Learning, Competitive Programming, NLP, Medical Imaging.</strong></li>
       <li>🌱 I’m currently learning <strong>BanglaBert, Bert, Generative AI.</strong></li>
-      <li>📫 If you want to contact me, you can reach out via: <strong><a href="mailto:faysalmahmud735@gmail.com">faysalmahmud735@gmail.com</a></strong></li>
+      <li>📫 If you want to contact me--->
     </ul>
   </div>
   <div style="flex: 1; text-align: center;">
     <animated-image data-catalyst="" style="width: 180px;">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" data-target="animated-image.originalLink">
-        <img alt="Working on My Portfolio" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+        <img alt="Working on My Portfolio" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="150" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
       </a>
     </animated-image>
   </div>
