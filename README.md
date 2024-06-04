@@ -95,8 +95,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&layout=donut">
 </div>
 
-  ![Anurag's GitHub stats]() 
-[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
+
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=ZobayerAkib&&theme=blueberry&&hide_border=true)](https://git.io/streak-stats) 
  
