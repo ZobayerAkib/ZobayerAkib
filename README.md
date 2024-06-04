@@ -1,5 +1,5 @@
 <div>
-<div align='right'><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350"></div>
+<div align='right'><img align='right' src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350"></div>
 <div aligh ='left'>
  <div align="left"><img  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="100">&nbsp;</div>
 <p align="leftr" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=750&color=F7481F&center=true&vCenter=true&width=435&lines=Hey+!+I+am+Md.+Zobayer+Ibna+Kabir;Welcome+to+my+profile" alt="Typing SVG" /></a></p>
