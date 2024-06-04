@@ -88,13 +88,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,php,latex,mysql,postman,sklearn,tensorflow)](https://skillicons.dev)
 
-![](https://raw.githubusercontent.com/ZobayerAkib/cf-stats/main/output/light_card.svg)
+![]()
 
 <div>
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=ZobayerAkib&show_icons=true&theme=radical ">
+ <img align="left" src="https://raw.githubusercontent.com/ZobayerAkib/cf-stats/main/output/light_card.svg">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&layout=donut">
 </div>
 
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZobayerAkib&show_icons=true&theme=radical ) 
 
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=ZobayerAkib&&theme=blueberry&&hide_border=true)](https://git.io/streak-stats) 
@@ -107,6 +109,7 @@
 </div>
 
 <!---
+[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph]()
 ZobayerAkib/ZobayerAkib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
