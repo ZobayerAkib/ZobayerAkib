@@ -4,13 +4,13 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <ul>
-      <li>👀 I’m especially interested in ***Machine Learning, Deep Learning, Competitive Programming, NLP, Medical Imaging.***</li>
-      <li>🌱 I’m currently learning ***BanglaBert, Bert, Generative AI.***</li>
+      <li>👀 I’m especially interested in Machine Learning, Deep Learning, Competitive Programming, NLP, Medical Imaging.</li>
+      <li>🌱 I’m currently learning BanglaBert, Bert, Generative AI.</li>
       <li>📫 If you want to contact me, you can reach out via:</li>
     </ul>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200">
   </div>
 </div>
 
