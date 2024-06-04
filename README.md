@@ -14,7 +14,7 @@
   <div style="flex: 1; >
     <animated-image data-catalyst="" style="width: 180px;">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" data-target="animated-image.originalLink">
-        <img alt="Working on My Portfolio" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="150" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"  align="right">
+        <img alt="Working on My Portfolio" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"  align="right">
       </a>
     </animated-image>
   </div>
