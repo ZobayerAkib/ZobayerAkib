@@ -88,12 +88,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,php,latex,mysql,postman,sklearn,tensorflow)](https://skillicons.dev)
 
-![]()
+![](https://raw.githubusercontent.com/ZobayerAkib/cf-stats/main/output/light_card.svg)
 
-<div>
- <img align="left" src="https://raw.githubusercontent.com/ZobayerAkib/cf-stats/main/output/light_card.svg">
+
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&layout=donut">
-</div>
+
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZobayerAkib&show_icons=true&theme=radical ) 
