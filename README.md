@@ -68,9 +68,8 @@
 </a>
 </p>
 </div>
-
  
-## Skills 
+## Skills :
 <div align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60">
@@ -84,6 +83,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="60">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="60">
 </div>
+
 ## More Skills :
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,php,latex,mysql,postman,sklearn,tensorflow)](https://skillicons.dev)
@@ -94,7 +94,12 @@
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
  [![GitHub Streak](https://streak-stats.demolab.com/?user=ZobayerAkib&&theme=blueberry&&hide_border=true)](https://git.io/streak-stats) 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZobayerAkib&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+[![Ashutosh's github activity graph]()
+
+<div>
+ <img> src="https://github-readme-activity-graph.vercel.app/graph?username=ZobayerAkib&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph" </img>
+</div>
  
 
 <!---
