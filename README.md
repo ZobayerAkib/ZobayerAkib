@@ -88,7 +88,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,php,latex,mysql,postman,sklearn,tensorflow)](https://skillicons.dev)
 
-![](https://raw.githubusercontent.com/ZobayerAkib/cf-stats/main/output/light_card.svg)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=IbnaKabir)
 
 
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&layout=donut">
