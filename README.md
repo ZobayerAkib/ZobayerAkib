@@ -14,7 +14,12 @@
     </ul>
   
   </div>
- 
+ <div align="center" dir="auto">
+  <p dir="auto">
+<a href="mailto:ibnakabir081@gmail.com"><img src="https://camo.githubusercontent.com/e526bbc82bac127815f92d17b11f4a37f9c84dc5869b4cd1e2964b00f5724e8f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676d61696c2f676d61696c2d69636f6e2e737667" alt="gmail" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/mdzobayeribnakabir/" rel="nofollow"><img src="https://camo.githubusercontent.com/a65f527a5788de0dec5f1b2be0858392a3652ec2d766c73eb614c98183d245fb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d69636f6e2e737667" alt="linkedin" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width: 100%;"></a>
+</p>
+ </div>
 
 
 
