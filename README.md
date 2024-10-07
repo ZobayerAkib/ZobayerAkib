@@ -16,8 +16,21 @@
   </div>
  <div align="center" dir="auto">
   <p dir="auto">
-<a href="mailto:ibnakabir081@gmail.com"><img src="https://camo.githubusercontent.com/e526bbc82bac127815f92d17b11f4a37f9c84dc5869b4cd1e2964b00f5724e8f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676d61696c2f676d61696c2d69636f6e2e737667" alt="gmail" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/in/mdzobayeribnakabir/" rel="nofollow"><img src="https://camo.githubusercontent.com/a65f527a5788de0dec5f1b2be0858392a3652ec2d766c73eb614c98183d245fb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d69636f6e2e737667" alt="linkedin" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width: 100%;"></a>
+
+<a href="mailto:ibnakabir081@gmail.com">
+    <img src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://www.linkedin.com/in/mdzobayeribnakabir/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=eYSt2oUAAAAJ" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/1ba923a79ff7c618f5ef33cc1aea99a3995cc051a5db211c6b35af5633865020/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c652532305363686f6c61722d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d476f6f676c655363686f6c6172266c6f676f436f6c6f723d77686974652626636f6c6f723d303138314646" data-canonical-src="https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&amp;logo=GoogleScholar&amp;logoColor=white&amp;&amp;color=0181FF" style="max-width: 100%;">
+</a>
+<a href="https://www.researchgate.net/profile/Md-Zobayer-Ibna-Kabir" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/4d1325691e2d7e171cb85f4e45f8d91bbe9bff1c6dd65fb9be0aafba74b00711/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265736561726368476174652d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d726573656172636867617465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/ResearchGate-100000?style=for-the-badge&amp;logo=researchgate&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
+
 </p>
  </div>
 
