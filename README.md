@@ -8,8 +8,8 @@
 
   <div>
     <ul >
-      <li>👀 I’m especially interested in <strong>Machine Learning, Deep Learning, Competitive Programming, NLP, Medical Imaging.</strong></li>
-      <li>🌱 I’m currently learning <strong>BanglaBert, Bert, Generative AI.</strong></li>
+      <li>👀 I’m especially interested in <strong>Machine Learning, Deep Learning,Computer Vision, NLP, Medical Imaging.</strong></li>
+      <li>🌱 I’m currently learning <strong>BanglaBert, Bert, Generative AI, LLM.</strong></li>
       <li>📫 If you want to contact me--></li>
     </ul>
   
