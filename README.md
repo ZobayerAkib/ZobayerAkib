@@ -99,7 +99,8 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZobayerAkib&show_icons=true&theme=radical ) 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ZobayerAkib&&theme=blueberry&&hide_border=true)](https://git.io/streak-stats) 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZobayerAkib&&theme=blueberry&&hide_border=true)](https://git.io/streak-stats)
  
 
 
