@@ -65,7 +65,7 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 | Degree | Institution | Year |
 |:---|:---|:---:|
 | B.Sc. in Computer Science and Engineering | Ahsanullah University of Science and Technology | 2019 – 2023 |
-| B.Sc.  | Khulna University of Engineering & Technology | 2018-2019(Admitted (Not Continued)) |
+| B.Sc.  | Khulna University of Engineering & Technology | 2018-2019 ( <b>Admitted (Not Continued)</b> ) |
 | Higher Secondary Certificate | Notre Dame College | 2015 – 2017 |
 | Secondary School Certificate | Ideal School and College | 2005 – 2015 |
 
