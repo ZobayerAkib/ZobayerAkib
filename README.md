@@ -138,7 +138,7 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 
 | Thesis Title | Link |
 |:---|:---:|
-| Identifying Gene–Disease Association through Graph Embedding and Machine Learning | [Google Drive](https://drive.google.com/drive/folders/your-thesis-file-id) |
+| Identifying Gene–Disease Association through Graph Embedding and Machine Learning | [Thesis Paper Link](https://drive.google.com/file/d/1FuhKaSvQSJ6CUuHDc-qrCVyFAA_zFqZY/view?usp=sharing) |
 
 </div>
 
@@ -171,14 +171,14 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 
 | Project | Stack | Link |
 |---|---|---|
-| Intelligent Invoice Data Extraction System | Vision + PDF Parsing + LLM + FastAPI | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| Multi-Agent Instagram Content Creation System | CrewAI + OpenAI API | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| Hybrid Medical AI Agent | SQLite + Web Search + LLM Routing | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| AI-Powered Article Summarizer with Email Automation | FastAPI + n8n + OpenAI API | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| AI-Powered LinkedIn Post Generator | LangChain + Transformers | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| LinkedIn Post Generator API | FastAPI + OpenAI API | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| Real-Time Heart Disease Risk Prediction System | ML + FastAPI + Docker | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| Fine-Tuning Transformers for Question Answering | Hugging Face Transformers | [Google Colab](https://colab.research.google.com) |
+| Intelligent Invoice Data Extraction System | Vision + PDF Parsing + LLM + FastAPI | [Repository](https://github.com/ZobayerAkib/AI-Invoice-Analyzer) |
+| Multi-Agent Instagram Content Creation System | CrewAI + OpenAI API | [Colab](https://colab.research.google.com/drive/1AH3CFSSByinApHmnG5f3uUnErY_bXYS4?usp=sharing) |
+| Hybrid Medical AI Agent | SQLite + Web Search + LLM Routing | [Repository]([https://github.com/ZobayerAkib?tab=repositories](https://github.com/ZobayerAkib/Multi-Tool-Medical-AI-Agent-using-Langchan-and-OpenAI-Api)) |
+| AI-Powered Article Summarizer with Email Automation | FastAPI + n8n + OpenAI API | [Repository](https://github.com/ZobayerAkib/smart-article-analyzer) |
+| AI-Powered LinkedIn Post Generator | LangChain + Transformers | [Repository](https://github.com/ZobayerAkib/AI-LinkedIn-Post-Generator-using-LangChain-and-Transformers) |
+| LinkedIn Post Generator API | FastAPI + OpenAI API | [Repository](https://github.com/ZobayerAkib/LinkedIn-Post-Generation-using-FastApi-and-OpenAI-api-AI-Agent-) |
+| Real-Time Heart Disease Risk Prediction System | ML + FastAPI + Docker | [Repository](https://github.com/ZobayerAkib/Heart-Disease-Prediction-FastAPI-Docker-Deployment-) |
+| Fine-Tuning Transformers for Question Answering | Hugging Face Transformers | [Google Colab](https://colab.research.google.com/drive/1L_9y7ZepDVRCU2gLRNmsykC4pZ9BkVWo?usp=sharing) |
 
 </details>
 
@@ -188,19 +188,19 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 
 | Project | Highlight | Link |
 |---|---|---|
-| Detecting Bangla Cyberbullying in Social Media | Compared Logistic Regression, Naive Bayes, Random Forest, Decision Tree, KNN | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| Sentiment Analysis on Tweet Dataset | Bag-of-Words model, evaluated via accuracy/precision/recall/F1 | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| Chest X-Ray Viral Infection Detection | CNN model, ~61.26% accuracy | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| Regression Models on Housing Dataset | Regression benchmarking | [Google Colab](https://colab.research.google.com) |
-| Diabetes Detection System | Classification pipeline | [Google Colab](https://colab.research.google.com) |
-| Clustering using Iris Dataset | Unsupervised learning | [Google Colab](https://colab.research.google.com) |
-| MNIST Digit Classifier | Neural Network | [Google Colab](https://colab.research.google.com) |
-| Image Classification: NN vs CNN (Fashion MNIST) | Architecture comparison | [Google Colab](https://colab.research.google.com) |
-| Predicting Employee Attrition | Classification modeling | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| Credit Card Fraud Detection Analysis | Imbalanced classification | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| Student Result Analysis | Regression modeling | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| COVID-19 Cases Prediction in Bangladesh | Linear Regression | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| Transfer Learning for NLP with TensorFlow Hub | Transfer learning | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| Detecting Bangla Cyberbullying in Social Media | Compared Logistic Regression, Naive Bayes, Random Forest, Decision Tree, KNN | [Repository](https://github.com/ZobayerAkib/Detecting-Bangla-Cyberbullying-in-Social-Media-using-Machine-Learning) |
+| Sentiment Analysis on Tweet Dataset | Bag-of-Words model, evaluated via accuracy/precision/recall/F1 | [Repository](https://github.com/ZobayerAkib/Sentiment_Analysis_using_Tweet_dataset) |
+| Chest X-Ray Viral Infection Detection | CNN model, ~61.26% accuracy | [Repository](https://github.com/ZobayerAkib/chest-infected-with-virus-or-not-Detecting-using-CNN-model) |
+| Regression Models on Housing Dataset | Regression benchmarking | [Google Colab](https://colab.research.google.com/drive/1Bp7oZ90-WfhdgQYL50CVnOQQVXAQY13i?usp=sharing) |
+| Diabetes Detection System | Classification pipeline | [Google Colab](https://colab.research.google.com/drive/1EwnuDY69vMfTmMvGehje8GzxYDJkn2H7?usp=sharing) |
+| Clustering using Iris Dataset | Unsupervised learning | [Google Colab](https://colab.research.google.com/drive/1rF3Tu6DhsWKRb2vLmafNhfteo-RRCJl9?usp=sharing) |
+| MNIST Digit Classifier | Neural Network | [Google Colab](https://colab.research.google.com/drive/144zitQRi3Xdj-jkdls7NYhvQacK0RlZ-?usp=sharing) |
+| Image Classification: NN vs CNN (Fashion MNIST) | Architecture comparison | [Google Colab](https://colab.research.google.com/drive/1cAAsnjkT13PU4SJR1-4UQAv4j0iG9xuT?usp=sharing) |
+| Predicting Employee Attrition | Classification modeling | [Repository](https://github.com/ZobayerAkib/Predicting_Employee_Attrition_Machine_Learning_Project-) |
+| Credit Card Fraud Detection Analysis | Imbalanced classification | [Repository](https://github.com/ZobayerAkib/Credit-Card-Fraud-Analysis__Data-Analysis-Project) |
+| Student Result Analysis | Regression modeling | [Repository](https://github.com/ZobayerAkib/STudent-Result-Data-Analysis__Data-Analysis-Project) |
+| COVID-19 Cases Prediction in Bangladesh | Linear Regression | [Repository](https://github.com/ZobayerAkib/Covid19-Data-analysis-for-Prediction-Purpose_Data-Analysis-Project) |
+| Transfer Learning for NLP with TensorFlow Hub | Transfer learning | [Repository](https://github.com/ZobayerAkib/Transfer-Learning-for-NLP-with-TensorFlow-Hub) |
 
 </details>
 
@@ -210,10 +210,10 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 
 | Project | Tool | Link |
 |---|---|---|
-| BPL Dataset Analysis | Python | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| IPL Dataset Analysis | Python | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| Daraz Bangladesh Headphone Sales Analysis | Python | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| Employee Attendance Analysis Dashboard | Power BI | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| BPL Dataset Analysis | Python | [Repository](https://github.com/ZobayerAkib/Exploratory-Data-Analysis/tree/main/BPL%20EDA) |
+| IPL Dataset Analysis | Python | [Repository](https://github.com/ZobayerAkib/Exploratory-Data-Analysis/tree/main/IPL%20EDA) |
+| Daraz Bangladesh Headphone Sales Analysis | Python | [Repository](https://github.com/ZobayerAkib/Exploratory-Data-Analysis/tree/main/HeadPhone%20EDA(Daraz%20BD)) |
+| Employee Attendance Analysis Dashboard | Power BI | [Repository](https://github.com/ZobayerAkib/Presence-Insights-of-Employee-Using-Power-BI) |
 
 </details>
 
@@ -223,9 +223,9 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 
 | Type | Description | Link |
 |---|---|---|
-| Manual Testing | Test case writing & requirement analysis | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| API Testing | Postman-based endpoint validation | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
-| Automation Testing | Selenium-based automated test suite | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| Manual Testing | Test case writing & requirement analysis | [Repository](https://github.com/ZobayerAkib/Test-Case-Writing) |
+| API Testing | Postman-based endpoint validation | [Repository](https://github.com/ZobayerAkib/Api-Testing-Using-Postman) |
+| Automation Testing | Selenium-based automated test suite | [Repository](https://github.com/ZobayerAkib/Selenium_Practice) |
 
 </details>
 
@@ -267,19 +267,28 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZobayerAkib&show_icons=true&count_private=true&hide_border=true&bg_color=0B1120&title_color=7DD3FC&text_color=A78BFA&icon_color=38BDF8&ring_color=6D28D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZobayerAkib&hide_border=true&background=0B1120&stroke=22D3EE&ring=6D28D9&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=A78BFA&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=6D28D9" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ZobayerAkib&show_icons=true&count_private=true&hide_border=true&bg_color=0B1120&title_color=7DD3FC&text_color=A78BFA&icon_color=38BDF8" width="49%"/>
+
+<img src="https://streak-stats.demolab.com?user=ZobayerAkib&hide_border=true&background=0B1120&stroke=22D3EE&ring=6D28D9&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=A78BFA&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=6D28D9" width="49%"/>
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&layout=compact&hide_border=true&bg_color=0B1120&title_color=7DD3FC&text_color=A78BFA&langs_count=10" width="60%"/>
 
+<br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=ZobayerAkib&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
 
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZobayerAkib&theme=react-dark&bg_color=0B1120&color=7DD3FC&line=38BDF8&point=E0F2FE&hide_border=true&area=true" width="100%"/>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/ZobayerAkib/ZobayerAkib/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
 ---
 
 <div align="center">
