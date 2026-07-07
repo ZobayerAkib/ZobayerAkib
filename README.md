@@ -150,7 +150,9 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 <a href="https://www.researchgate.net/publication/392212652_An_Interpretable_Machine_Learning_Approach_for_Bengali_Toxic_Comments_Detection?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjpudWxsLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"><img src="https://img.shields.io/badge/An_Interpretable_ML_Approach_for_Bengali_Toxic_Comments_Detection-0B1120?style=for-the-badge&color=6D28D9&logoColor=E0E7FF"/></a>
 <a href="https://www.researchgate.net/publication/392217392_Breast_Cancer_Classification_Using_Pre-trained_CNNs_with_Explainable_AI_for_Enhanced_Decision_Support"><img src="https://img.shields.io/badge/Breast_Cancer_Classification_Using_Pre--trained_CNNs_with_XAI-0B1120?style=for-the-badge&color=0E7490&logoColor=BAE6FD"/></a>
 
-
+<p>
+  <b>Please click on the publication title to access the full article and explore the research details.</b>
+</p>
 
 </div>
 
