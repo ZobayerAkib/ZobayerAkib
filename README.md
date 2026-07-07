@@ -9,11 +9,11 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/mdzobayeribnakabir/"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=7DD3FC&labelColor=0B1120&color=1E3A8A"/></a>
-<a href="https://github.com/ZobayerAkib"><img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=0B1120&color=4C1D95"/></a>
-<a href="https://www.researchgate.net/profile/Md-Zobayer-Ibna-Kabir"><img src="https://img.shields.io/badge/ResearchGate-0B1120?style=for-the-badge&logo=researchgate&logoColor=22D3EE&labelColor=0B1120&color=155E75"/></a>
-<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=eYSt2oUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-0B1120?style=for-the-badge&logo=googlescholar&logoColor=A78BFA&labelColor=0B1120&color=4C1D95"/></a>
-<a href="mailto:ibnakabir081@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0B1120&color=1E3A8A"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/mdzobayeribnakabir/"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=7DD3FC&labelColor=0B1120&color=1E3A8A"/></a>
+<a target="_blank" href="https://github.com/ZobayerAkib"><img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=0B1120&color=4C1D95"/></a>
+<a target="_blank" href="https://www.researchgate.net/profile/Md-Zobayer-Ibna-Kabir"><img src="https://img.shields.io/badge/ResearchGate-0B1120?style=for-the-badge&logo=researchgate&logoColor=22D3EE&labelColor=0B1120&color=155E75"/></a>
+<a target="_blank" href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=eYSt2oUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-0B1120?style=for-the-badge&logo=googlescholar&logoColor=A78BFA&labelColor=0B1120&color=4C1D95"/></a>
+<a target="_blank" href="mailto:ibnakabir081@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0B1120&color=1E3A8A"/></a>
 
 <br/><br/>
 
