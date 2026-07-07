@@ -173,7 +173,7 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 |---|---|---|
 | Intelligent Invoice Data Extraction System | Vision + PDF Parsing + LLM + FastAPI | [Repository](https://github.com/ZobayerAkib/AI-Invoice-Analyzer) |
 | Multi-Agent Instagram Content Creation System | CrewAI + OpenAI API | [Colab](https://colab.research.google.com/drive/1AH3CFSSByinApHmnG5f3uUnErY_bXYS4?usp=sharing) |
-| Hybrid Medical AI Agent | SQLite + Web Search + LLM Routing | [Repository]([https://github.com/ZobayerAkib?tab=repositories](https://github.com/ZobayerAkib/Multi-Tool-Medical-AI-Agent-using-Langchan-and-OpenAI-Api)) |
+| Hybrid Medical AI Agent | SQLite + Web Search + LLM Routing | [Repository]([https://github.com/ZobayerAkib?tab=repositories])(https://github.com/ZobayerAkib/Multi-Tool-Medical-AI-Agent-using-Langchan-and-OpenAI-Api)) |
 | AI-Powered Article Summarizer with Email Automation | FastAPI + n8n + OpenAI API | [Repository](https://github.com/ZobayerAkib/smart-article-analyzer) |
 | AI-Powered LinkedIn Post Generator | LangChain + Transformers | [Repository](https://github.com/ZobayerAkib/AI-LinkedIn-Post-Generator-using-LangChain-and-Transformers) |
 | LinkedIn Post Generator API | FastAPI + OpenAI API | [Repository](https://github.com/ZobayerAkib/LinkedIn-Post-Generation-using-FastApi-and-OpenAI-api-AI-Agent-) |
