@@ -9,10 +9,10 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/zobayer-ibna-kabir"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=7DD3FC&labelColor=0B1120&color=1E3A8A"/></a>
+<a href="https://www.linkedin.com/in/mdzobayeribnakabir/"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=7DD3FC&labelColor=0B1120&color=1E3A8A"/></a>
 <a href="https://github.com/ZobayerAkib"><img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=0B1120&color=4C1D95"/></a>
-<a href="https://www.researchgate.net/search?q=Md.%20Zobayer%20Ibna%20Kabir"><img src="https://img.shields.io/badge/ResearchGate-0B1120?style=for-the-badge&logo=researchgate&logoColor=22D3EE&labelColor=0B1120&color=155E75"/></a>
-<a href="https://scholar.google.com/scholar?q=Md.+Zobayer+Ibna+Kabir"><img src="https://img.shields.io/badge/Google%20Scholar-0B1120?style=for-the-badge&logo=googlescholar&logoColor=A78BFA&labelColor=0B1120&color=4C1D95"/></a>
+<a href="https://www.researchgate.net/profile/Md-Zobayer-Ibna-Kabir"><img src="https://img.shields.io/badge/ResearchGate-0B1120?style=for-the-badge&logo=researchgate&logoColor=22D3EE&labelColor=0B1120&color=155E75"/></a>
+<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=eYSt2oUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-0B1120?style=for-the-badge&logo=googlescholar&logoColor=A78BFA&labelColor=0B1120&color=4C1D95"/></a>
 <a href="mailto:ibnakabir081@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0B1120&color=1E3A8A"/></a>
 
 <br/><br/>
@@ -25,7 +25,6 @@
 
 <br/>
 
-> LinkedIn/ResearchGate/Google Scholar links use best-available or placeholder URLs — verify and swap in your exact profile links before publishing.
 
 ---
 
@@ -38,7 +37,7 @@
 <table width="100%" style="border-radius:16px;">
 <tr><td>
 
-I'm someone who genuinely enjoys solving real-world problems with data and code — from building AI-powered applications that automate tedious workflows, to researching how machine learning models can be made more transparent and trustworthy. I have a strong pull toward research and innovation, and I'm constantly exploring emerging tools in AI, NLP, and computer vision. I care about clean, well-tested, and scalable solutions as much as I care about the ideas behind them.
+I'm someone who genuinely enjoys solving real-world problems with data and code, from building AI-powered applications that automate tedious workflows, to researching how machine learning models can be made more transparent and trustworthy. I have a strong pull toward research and innovation, and I'm constantly exploring emerging tools in Agentic AI, MLLMs, and Computer Vision. I care about clean, well-tested, and scalable solutions as much as I care about the ideas behind them.
 
 **📌 Open to**
 `Software Engineer` · `AI Engineer` · `ML Engineer` · `Data Scientist` · `Data Analyst` · `SQA Engineer`
@@ -61,7 +60,18 @@ I'm someone who genuinely enjoys solving real-world problems with data and code 
 </div>
 
 ---
+## 🎓 Education
 
+| Degree | Institution | Year |
+|:---|:---|:---:|
+| B.Sc. in Computer Science and Engineering | Ahsanullah University of Science and Technology | 2019 – 2023 |
+| B.Sc.  | Khulna University of Engineering & Technology | 2018-2019(Admitted (Not Continued)) |
+| Higher Secondary Certificate | Notre Dame College | 2015 – 2017 |
+| Secondary School Certificate | Ideal School and College | 2005 – 2015 |
+
+</div>
+
+---
 <div align="center">
 
 ## 🧊 Tech Stack
@@ -72,7 +82,7 @@ I'm someone who genuinely enjoys solving real-world problems with data and code 
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mssql,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"/>
 
 **Python Libraries**
 <br/>
@@ -95,14 +105,17 @@ I'm someone who genuinely enjoys solving real-world problems with data and code 
 
 **Data Analysis**
 <br/>
+<img src="https://img.shields.io/badge/SQL-0B1120?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Python-0B1120?style=flat-square&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Looker%20Studio-0B1120?style=flat-square&logo=looker&logoColor=4285F4"/>
 <img src="https://img.shields.io/badge/Power%20BI-0B1120?style=flat-square&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-0B1120?style=flat-square&logo=microsoftexcel&logoColor=217346"/>
 
 **Web Development**
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark"/>
-<img src="https://img.shields.io/badge/FastAPI%20(Intermediate)-0B1120?style=flat-square&logo=fastapi&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Flask%20(Basic)-0B1120?style=flat-square&logo=flask&logoColor=E0E7FF"/>
+<img src="https://img.shields.io/badge/FastAPI-0B1120?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Flask-0B1120?style=flat-square&logo=flask&logoColor=FFFFFF"/>
 
 **Development Tools**
 <br/>
@@ -131,21 +144,109 @@ I'm someone who genuinely enjoys solving real-world problems with data and code 
 
 <div align="center">
 
-## 🎓 Education
+📚 Publications & Research
 
-| Degree | Institution | Year |
-|:---|:---|:---:|
-| B.Sc. in Computer Science and Engineering | Ahsanullah University of Science and Technology | 2019 – 2023 |
-| Higher Secondary Certificate | Notre Dame College | 2015 – 2017 |
-| Secondary School Certificate | Ideal School and College | 2005 – 2015 |
+<a href="https://arxiv.org/abs/2312.10696"><img src="https://img.shields.io/badge/An_Interpretable_Deep_Learning_Approach_for_Skin_Cancer_Categorization-0B1120?style=for-the-badge&color=1E3A8A&logoColor=BAE6FD"/></a>
+<a href="https://www.researchgate.net/publication/392212652_An_Interpretable_Machine_Learning_Approach_for_Bengali_Toxic_Comments_Detection?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjpudWxsLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"><img src="https://img.shields.io/badge/An_Interpretable_ML_Approach_for_Bengali_Toxic_Comments_Detection-0B1120?style=for-the-badge&color=6D28D9&logoColor=E0E7FF"/></a>
+<a href="https://www.researchgate.net/publication/392217392_Breast_Cancer_Classification_Using_Pre-trained_CNNs_with_Explainable_AI_for_Enhanced_Decision_Support"><img src="https://img.shields.io/badge/Breast_Cancer_Classification_Using_Pre--trained_CNNs_with_XAI-0B1120?style=for-the-badge&color=0E7490&logoColor=BAE6FD"/></a>
+
+
 
 </div>
 
----
+-----
+<div align="center">
+
+<details>
+<summary><h2>🗂️ Featured Projects</h2></summary>
+<br/>
+
+<details>
+<summary><b>🤖 AI Agents & LLM Systems</b></summary>
+<br/>
+
+| Project | Stack | Link |
+|---|---|---|
+| Intelligent Invoice Data Extraction System | Vision + PDF Parsing + LLM + FastAPI | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| Multi-Agent Instagram Content Creation System | CrewAI + OpenAI API | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| Hybrid Medical AI Agent | SQLite + Web Search + LLM Routing | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| AI-Powered Article Summarizer with Email Automation | FastAPI + n8n + OpenAI API | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| AI-Powered LinkedIn Post Generator | LangChain + Transformers | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| LinkedIn Post Generator API | FastAPI + OpenAI API | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| Real-Time Heart Disease Risk Prediction System | ML + FastAPI + Docker | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| Fine-Tuning Transformers for Question Answering | Hugging Face Transformers | [Google Colab](https://colab.research.google.com) |
+
+</details>
+
+<details>
+<summary><b>📊 Machine Learning & Data Science</b></summary>
+<br/>
+
+| Project | Highlight | Link |
+|---|---|---|
+| Detecting Bangla Cyberbullying in Social Media | Compared Logistic Regression, Naive Bayes, Random Forest, Decision Tree, KNN | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| Sentiment Analysis on Tweet Dataset | Bag-of-Words model, evaluated via accuracy/precision/recall/F1 | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| Chest X-Ray Viral Infection Detection | CNN model, ~61.26% accuracy | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| Regression Models on Housing Dataset | Regression benchmarking | [Google Colab](https://colab.research.google.com) |
+| Diabetes Detection System | Classification pipeline | [Google Colab](https://colab.research.google.com) |
+| Clustering using Iris Dataset | Unsupervised learning | [Google Colab](https://colab.research.google.com) |
+| MNIST Digit Classifier | Neural Network | [Google Colab](https://colab.research.google.com) |
+| Image Classification: NN vs CNN (Fashion MNIST) | Architecture comparison | [Google Colab](https://colab.research.google.com) |
+| Predicting Employee Attrition | Classification modeling | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| Credit Card Fraud Detection Analysis | Imbalanced classification | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| Student Result Analysis | Regression modeling | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| COVID-19 Cases Prediction in Bangladesh | Linear Regression | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| Transfer Learning for NLP with TensorFlow Hub | Transfer learning | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+
+</details>
+
+<details>
+<summary><b>📈 Data Analysis & BI</b></summary>
+<br/>
+
+| Project | Tool | Link |
+|---|---|---|
+| BPL Dataset Analysis | Python | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| IPL Dataset Analysis | Python | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| Daraz Bangladesh Headphone Sales Analysis | Python | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| Employee Attendance Analysis Dashboard | Power BI | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+
+</details>
+
+<details>
+<summary><b>🧪 Software Quality Assurance Work</b></summary>
+<br/>
+
+| Type | Description | Link |
+|---|---|---|
+| Manual Testing | Test case writing & requirement analysis | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| API Testing | Postman-based endpoint validation | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+| Automation Testing | Selenium-based automated test suite | [Repository](https://github.com/ZobayerAkib?tab=repositories) |
+
+</details>
+
+<details>
+<summary><b>💻 Full-Stack & Applied Software Projects</b></summary>
+<br/>
+
+| Project | Stack | Timeline |
+|---|---|---|
+| EducationUnlocked — Education Platform | PHP, JavaScript, HTML, CSS, Bootstrap | Feb – Apr 2022 |
+| CarMax — Car Selling Platform | PHP, HTML, CSS, Bootstrap | Sep – Nov 2021 |
+| Around Bangladesh — Travel Android App | Java | Mar – Apr 2021 |
+| Hospital Management System | Java, MySQL | Sep – Nov 2021 |
+
+</details>
+
+</details>
+
+</div>
+
+
 
 <div align="center">
 
-## 🏆 Achievements
+## 🏆 Achievements And Certificates
 
 <img src="https://img.shields.io/badge/🏅_SSC_Scholarship-0B1120?style=for-the-badge&color=1E3A8A&logoColor=BAE6FD"/>
 <img src="https://img.shields.io/badge/🏆_INTRA_AUST_Programming_Contest_2019-0B1120?style=for-the-badge&color=6D28D9&logoColor=E0E7FF"/>
@@ -177,18 +278,7 @@ I'm someone who genuinely enjoys solving real-world problems with data and code 
 
 <div align="center">
 
-## 📚 Publications & Research
 
-<a href="https://arxiv.org/abs/2312.10696"><img src="https://img.shields.io/badge/An_Interpretable_Deep_Learning_Approach_for_Skin_Cancer_Categorization-0B1120?style=for-the-badge&color=1E3A8A&logoColor=BAE6FD"/></a>
-<a href="https://www.researchgate.net/publication/369924719_Interpretable_Multi_Labeled_Bengali_Toxic_Comments_Classification_using_Deep_Learning"><img src="https://img.shields.io/badge/An_Interpretable_ML_Approach_for_Bengali_Toxic_Comments_Detection-0B1120?style=for-the-badge&color=6D28D9&logoColor=E0E7FF"/></a>
-<a href="https://www.researchgate.net/search?q=Md.%20Zobayer%20Ibna%20Kabir%20breast%20cancer"><img src="https://img.shields.io/badge/Breast_Cancer_Classification_Using_Pre--trained_CNNs_with_XAI-0B1120?style=for-the-badge&color=0E7490&logoColor=BAE6FD"/></a>
-
-<br/><br/>
-
-<a href="https://scholar.google.com/scholar?q=Md.+Zobayer+Ibna+Kabir"><img src="https://img.shields.io/badge/Google%20Scholar-0B1120?style=for-the-badge&logo=googlescholar&logoColor=A78BFA&labelColor=0B1120&color=4C1D95"/></a>
-<a href="https://www.researchgate.net/search?q=Md.%20Zobayer%20Ibna%20Kabir"><img src="https://img.shields.io/badge/ResearchGate-0B1120?style=for-the-badge&logo=researchgate&logoColor=22D3EE&labelColor=0B1120&color=155E75"/></a>
-
-</div>
 
 ---
 
@@ -224,24 +314,25 @@ I'm someone who genuinely enjoys solving real-world problems with data and code 
 
 ---
 
-<div align="center">
-
-## 📇 Contact
-
-<a href="mailto:ibnakabir081@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0B1120&color=1E3A8A"/></a>
-<a href="https://www.linkedin.com/in/zobayer-ibna-kabir"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=7DD3FC&labelColor=0B1120&color=1E3A8A"/></a>
-<a href="https://github.com/ZobayerAkib"><img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=0B1120&color=4C1D95"/></a>
-<a href="https://www.researchgate.net/search?q=Md.%20Zobayer%20Ibna%20Kabir"><img src="https://img.shields.io/badge/ResearchGate-0B1120?style=for-the-badge&logo=researchgate&logoColor=22D3EE&labelColor=0B1120&color=155E75"/></a>
-<a href="https://scholar.google.com/scholar?q=Md.+Zobayer+Ibna+Kabir"><img src="https://img.shields.io/badge/Google%20Scholar-0B1120?style=for-the-badge&logo=googlescholar&logoColor=A78BFA&labelColor=0B1120&color=4C1D95"/></a>
-
-</div>
-
 <br/>
 
 <div align="center">
 
-*"Quality is never an accident — it is the result of intelligent design, tested relentlessly."*
+<h2>
+  🚀 Keep Learning • Keep Building • Keep Improving
+</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,25:0EA5E9,50:5B21B6,75:1E3A8A,100:0F172A&height=140&section=footer" width="100%"/>
+<p>
+  <i>
+    "Ever tried. Ever failed. No matter.<br>
+    Try again. Fail again. Fail better."
+  </i>
+  <br>
+  <b>— Samuel Beckett</b>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=160&section=footer" width="100%"/>
 
 </div>
