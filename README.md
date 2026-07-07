@@ -60,6 +60,7 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 </div>
 
 ---
+<div align="center">
 ## 🎓 Education
 
 | Degree | Institution | Year |
