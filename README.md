@@ -246,7 +246,7 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 
 </div>
 
-<p><b>
+<p align="center" ><b>
   Click on the ▶ icon provided in the interface to explore my projects and learn more about my work.
 </b></p>
 
