@@ -282,9 +282,7 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=
-ZobayerAkib
-&theme=react-dark&bg_color=0B1120&color=7DD3FC&line=38BDF8&point=E0F2FE&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZobayerAkib&theme=react-dark&bg_color=0B1120&color=7DD3FC&line=38BDF8&point=E0F2FE&hide_border=true&area=true" width="100%"/>
 
 <br/>
 
