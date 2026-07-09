@@ -101,7 +101,7 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 
 **AI & Automation**
 <br/>
-<img src="https://img.shields.io/badge/OpenAI%20GPT%20APIs-0B1120?style=flat-square&logo=openai&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/%20GPT%20APIs-0B1120?style=flat-square&logo=openai&logoColor=38BDF8"/>
 <img src="https://img.shields.io/badge/CrewAI-0B1120?style=flat-square&color=6D28D9&logoColor=E0E7FF"/>
 <img src="https://img.shields.io/badge/n8n-0B1120?style=flat-square&logo=n8n&logoColor=22D3EE"/>
 
