@@ -268,17 +268,17 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 ## 📊 GitHub Analytics
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZobayerAkib&show_icons=true&count_private=true&hide_border=true&bg_color=0B1120&title_color=7DD3FC&text_color=A78BFA&icon_color=38BDF8" width="49%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ZobayerAkib&show_icons=true&count_private=true&hide_border=true&bg_color=0B1120&title_color=7DD3FC&text_color=A78BFA&icon_color=38BDF8" width="49%"/> -->
 
 <img src="https://streak-stats.demolab.com?user=ZobayerAkib&hide_border=true&background=0B1120&stroke=22D3EE&ring=6D28D9&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=A78BFA&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=6D28D9" width="49%"/>
 
-<br/>
+<!-- <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&layout=compact&hide_border=true&bg_color=0B1120&title_color=7DD3FC&text_color=A78BFA&langs_count=10" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZobayerAkib&layout=compact&hide_border=true&bg_color=0B1120&title_color=7DD3FC&text_color=A78BFA&langs_count=10" width="60%"/> -->
 
-<br/>
+<!-- <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ZobayerAkib&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=ZobayerAkib&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/> -->
 
 <br/>
 
@@ -286,20 +286,13 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ZobayerAkib/ZobayerAkib/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 
 </div>
 
 
 ---
 
-
-
-<div align="center">
-
-
-
----
 
 <div align="center">
 
