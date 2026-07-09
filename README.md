@@ -146,7 +146,7 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 
 <div align="center">
 
-📚 Publications & Research
+## 📚 Publications & Research
 
 <a href="https://arxiv.org/abs/2312.10696"><img src="https://img.shields.io/badge/An_Interpretable_Deep_Learning_Approach_for_Skin_Cancer_Categorization-0B1120?style=for-the-badge&color=1E3A8A&logoColor=BAE6FD"/></a>
 <a href="https://www.researchgate.net/publication/392212652_An_Interpretable_Machine_Learning_Approach_for_Bengali_Toxic_Comments_Detection?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjpudWxsLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"><img src="https://img.shields.io/badge/An_Interpretable_ML_Approach_for_Bengali_Toxic_Comments_Detection-0B1120?style=for-the-badge&color=6D28D9&logoColor=E0E7FF"/></a>
@@ -303,7 +303,7 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 
 <div align="center">
 
-## 🐍 Contribution Snake
+##  Contribution 
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
