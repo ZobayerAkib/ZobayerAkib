@@ -354,4 +354,21 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=160&section=footer" width="100%"/>
 
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/ZobayerAkib/ZobayerAkib/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/ZobayerAkib/ZobayerAkib/output/github-snake.svg" />
+  <img alt="GitHub Snake"
+       src="https://raw.githubusercontent.com/ZobayerAkib/ZobayerAkib/output/github-snake.svg" />
+</picture>
+
 </div>
+</div>
+
+
