@@ -289,7 +289,26 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 <img src="https://raw.githubusercontent.com/ZobayerAkib/ZobayerAkib/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
+
+
 ---
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/ZobayerAkib/ZobayerAkib/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/ZobayerAkib/ZobayerAkib/output/github-snake.svg" />
+  <img alt="GitHub Snake"
+       src="https://raw.githubusercontent.com/ZobayerAkib/ZobayerAkib/output/github-snake.svg" />
+</picture>
+
+</div>
+
+
+----
 
 <div align="center">
 
