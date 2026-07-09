@@ -308,7 +308,7 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 </picture>
 
 </div>
-<!-- <div align="center">
+<div align="center">
 
 ## ⚡ Skills
 
@@ -336,7 +336,7 @@ I'm someone who genuinely enjoys solving real-world problems with data and code,
 <img src="https://img.shields.io/badge/Power%20BI-0B1120?style=flat-square&logo=powerbi&logoColor=F2C811"/>
 <img src="https://img.shields.io/badge/Looker%20Studio-0B1120?style=flat-square&logo=looker&logoColor=4285F4"/>
 
-</div> -->
+</div> 
 
 ---
 
